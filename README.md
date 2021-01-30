@@ -1,0 +1,2 @@
+# SUSTC_CS303_Reversi
+使用ab剪枝算法完成的黑白棋算法
